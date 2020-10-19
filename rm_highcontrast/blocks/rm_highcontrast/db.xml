@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btRmHighContrast">
+        <field name="bID" type="I">
+            <key ></key>
+            <unsigned ></unsigned>
+        </field>
+		  <field name="rmhighcontraststyle" type="C">
+        </field>
+		
+		
+		
+		
+			  <field name="rmcontrasth" type="C">
+        </field>
+		
+		
+		
+			  <field name="rmcontrastht" type="C">
+        </field>
+		
+		
+			  <field name="rmcontrastlink" type="C">
+        </field>
+		
+		
+			  <field name="rmcontrastlinkt" type="C">
+        </field>
+		
+			  <field name="rmcontrastblockquote" type="C">
+        </field>
+		
+			  <field name="rmcontrastblockquotet" type="C">
+        </field>
+		
+			  <field name="rmhighcontrastp" type="C">
+        </field>
+		
+			  <field name="rmhighcontrastpt" type="C">
+        </field>
+				  <field name="rmhighcontrastz" type="C">
+        </field>
+		
+    </table>
+</schema>
